@@ -16,7 +16,7 @@ Human knowledge
 → Calmer, faster work loops
 ```
 
-## Start here — proof of work
+## Start here — public proofs
 
 ### 1. [AI Minion Wizard](https://github.com/peuarchukiati-rgb/ai-minion-wizard)
 A single `.md` file that turns Claude into a guided AI workflow companion.
@@ -28,29 +28,37 @@ A recurring automation that reads public business content, rewrites it through a
 
 **What it proves:** a living `.md` doctrine can control recurring automated output, voice, and behavior.
 
-### 3. [klai-hackathon](https://github.com/peuarchukiati-rgb/klai-hackathon)
-A headless wellness concept where the AI agent is the interface and Markdown is the durable output.
+### 3. [talent-store-demo](https://github.com/peuarchukiati-rgb/talent-store-demo)
+Recruitment pre-screen prototype on an organisation-owned Markdown store. Evidence only, no scoring. Same store, two models. Synthetic data.
 
-**What it proves:** useful AI products do not always need a new app; sometimes the agent is the product surface.
+**What it proves:** a shared Markdown store can hold auditable agent work without turning judgment into a black-box score.
 
-### 4. [MindEngine](https://github.com/peuarchukiati-rgb/mindengine-web)
-A cognitive diagnostic web app that checks the operator's state before asking the system to execute.
+### 4. [klai-protocol](https://github.com/peuarchukiati-rgb/klai-protocol)
+Portable AI working discipline — smart models still need a way of working.
 
-**What it proves:** AI workflows should understand the human operator, not just the task.
+**What it proves:** the durable asset is the protocol, not the current chat app or model brand.
 
-### 5. Code : Bridge
-A Thai-first AI learning and support surface under KLAI, currently private while the product direction and naming are being shaped.
+### 5. [klai-agentic](https://github.com/peuarchukiati-rgb/klai-agentic)
+A governed AI partner pattern: structured state, proposed next actions, human approval gate, execute only what was approved. Hackathon entry (Google All Things Agentic).
 
-**What it proves:** the support/community layer can be an agent — teacher, debugger, resource router, and insight loop — not just a forum.
+**What it proves:** agent help can stop at the decision boundary instead of owning the decision.
+
+## Also public (narrower / event pieces)
+
+- [klear-decision-room](https://github.com/peuarchukiati-rgb/klear-decision-room) — AI prepares decisions without owning them
+- [kfc-p1-finance-reviewer](https://github.com/peuarchukiati-rgb/kfc-p1-finance-reviewer) — Build Week finance reviewer, human-gated
+- [klear](https://github.com/peuarchukiati-rgb/klear) — clarity-layer experiments
+- [bicm-2026-concept](https://github.com/peuarchukiati-rgb/bicm-2026-concept) — concept materials
+
+Older prototypes may be private or archived; they are not the front door.
 
 ## What I’m building toward
 
-- **KLAI** — Markdown as work protocol for organizations and agents.
-- **Personal Agentic OS** — a calmer command layer for founder work.
-- **SO! Agentic Ecosystem** — company-level agentic execution with human approval gates.
-- **AI Agent Greeting / HALC** — an agent-native discovery and receptionist layer for the web.
+- **KLAI** — Markdown as work protocol for organizations and agents
+- **Personal Agentic OS** — a calmer command layer for founder work
+- **Human-gated agent fleets** — execution with approval, not autopilot theater
 
 ## Contact
 
 - Email: halc.agent@gmail.com
-- Direction: Thai-first AI transformation, agentic workflow design, Markdown operating systems.
+- Direction: Thai-first AI transformation, agentic workflow design, Markdown operating systems
